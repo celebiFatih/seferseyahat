@@ -1,0 +1,3 @@
+# Veri Tabanı ile Yolcu Bilet Rezervasyon & Kayıt Sistemi
+
+Oluşturulan bu proje ile bir otobus şirketinin bilet rezervasyon, yolcu kayıt ve sefer oluşturma sistemi örneklendirilmiştir. Bu sistem ile yeni otobus seferleri oluşturulabilecek, mevcut seferler sorgulanabilecek, bilet rezervasyonu yapılırken yolcunun daha önce firmada kaydı olup olmadığı sorgulanacak ve kayıtlı ise bilgileri daha önceki kayıt üzerinden çekilecek, kayıtlı değilse yolcunun bilgilerinin kayıt edilmesi sağlanacaktır.
